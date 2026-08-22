@@ -1,5 +1,5 @@
 {
-  "name": "sink2",
+  "name": "sink",
   "main": ".output/server/index.mjs",
   "assets": {
     "binding": "ASSETS",
